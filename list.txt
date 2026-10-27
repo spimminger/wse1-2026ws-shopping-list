@@ -2,4 +2,6 @@ aepfel
 birnen
 bier
 leberkäse
-
+chips
+kaese
+wurst
