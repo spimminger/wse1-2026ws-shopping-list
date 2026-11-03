@@ -5,4 +5,7 @@ bier
 leberkäse
 chips
 kaese
+tomaten
+gurkerl
+paprika
 wurst
