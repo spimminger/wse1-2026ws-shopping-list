@@ -1,4 +1,5 @@
 toast
+baguette
 semmeln
 aepfel
 birnen
