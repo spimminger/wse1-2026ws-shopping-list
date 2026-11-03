@@ -3,9 +3,6 @@ birnen
 orangen
 bier
 leberkäse
-  - normal
-  - pikant
-  - käse
 chips
 kaese
 wurst
