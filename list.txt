@@ -10,3 +10,5 @@ tomaten
 gurkerl
 paprika
 wurst
+salat
+
